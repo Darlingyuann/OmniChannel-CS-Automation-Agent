@@ -1,0 +1,4 @@
+[2025-05-02 10:15:22] Initializing LLM Connection...
+[2025-05-02 10:15:23] Sending Prompt: "Hello, describe your capabilities."
+[2025-05-02 10:15:25] Received Token response: 45 tokens.
+[2025-05-02 10:15:25] Task Completed successfully.
