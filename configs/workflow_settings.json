@@ -1,0 +1,8 @@
+json
+    {
+      "agent_name": "Pro-CS-Agent",
+      "default_model": "gemini-1.5-pro",
+      "temperature": 0.3,
+      "max_retries": 3,
+      "enable_rag": true
+    }
